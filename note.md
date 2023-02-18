@@ -1,6 +1,6 @@
 # Aptos 
 
-[![hackmd-github-sync-badge](https://hackmd.io/Af2-Uhx-RT-PfGL_hhjakQ/badge)](https://hackmd.io/Af2-Uhx-RT-PfGL_hhjakQ)
+[![hackmd-github-sync-badge](https://hackmd.io/Af2-Uhx-RT-PfGL_hhjakQ/badge)](https://hackmd.io/jsRaNwjBSYSCZJMSBzZ0IA)
 
 ### 環境及套件介紹
 #### <font color="blue">VScode</font>
